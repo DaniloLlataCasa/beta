@@ -1,0 +1,22 @@
+
+NoT MODE         HORARIO      DURACION
+
+dormir          9.50: pm                 ()
+levantarme         6: am      8 horas    ()
+ingles           6-8: am      2 horas    ()
+limpiar          8-9: am      1 horas    () 
+ejercicios      9-10: am      1.15 horas ()
+baño           10-15: am      15 minutos ()  
+cocinar           10: pm      1.30 horas ()
+programacion      12: pm      5 horas    ()
+tiempo libre       5: pm   ../5 horas    ()
+dormir          9.50: pm                 ()  
+                              24 horas
+
+
+
+
+
+T MODE
+
+ 
